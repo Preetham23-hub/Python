@@ -1,4 +1,3 @@
 print("Hello world")
-print("hello baby")
+print("hello git")
 print("this is thrid")
-print("new branch")
